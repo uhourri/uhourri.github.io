@@ -18,9 +18,9 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
+    identifier = "academia"
+    name = "Academia"
+    url = "/academia/"
     weight = 2
 
   [[menu.main]]
