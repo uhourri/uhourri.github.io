@@ -10,6 +10,9 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowToc = true # Enables table of contents for longer posts
 
+[outputs]
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+
 [menu]
   [[menu.main]]
     identifier = "about"
