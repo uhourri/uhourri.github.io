@@ -8,7 +8,7 @@ I have worked on **research-driven and software development projects** in **data
 
 ---
 
-### GHMap: Mapping GitHub Events to Contributor Activities  
+## 👨‍💻 GHMap: Mapping GitHub Events to Contributor Activities  
 A Python-based tool that converts **raw GitHub event data** into structured contributor activities for **OSS community analysis**.  
 - **Key Features:** Event classification, contributor activity mapping, structured dataset generation.  
 - **Technologies:** Python, GitHub API, JSON, Data Processing  
@@ -16,14 +16,14 @@ A Python-based tool that converts **raw GitHub event data** into structured cont
 
 ---
 
-### Twitter Sentiment Analysis  
+## 𝕏 Twitter Sentiment Analysis  
 A Natural Language Processing (NLP) model for analyzing **sentiment in Arabic tweets**, detecting dialects, and classifying topics.  
 - **Key Features:** Sentiment classification, dialect recognition, tweet topic modeling.  
 - **Technologies:** Python, BERT, Transformers, NLP  
 
 ---
 
-### Soccer Players Face Recognition  
+## ⚽ Soccer Players Face Recognition  
 A computer vision model that performs **real-time face recognition** to classify soccer players from images and videos.  
 - **Key Features:** Face detection, classification, real-time recognition.  
 - **Technologies:** OpenCV, LBPH, SVM, Python  
@@ -31,14 +31,14 @@ A computer vision model that performs **real-time face recognition** to classify
 
 ---
 
-### Cancer Mortality Rate Prediction  
+## 🏥 Cancer Mortality Rate Prediction  
 A data-driven statistical model that predicts **cancer mortality rates** based on historical health data.  
 - **Key Features:** Predictive modeling, statistical trend analysis, data visualization.  
 - **Technologies:** R, Regression  
 
 ---
 
-### Accident Management System  
+## 🚦 Accident Management System  
 A web application designed to help magistrates manage **judicial accident case records** efficiently.  
 - **Key Features:** Case tracking, judicial record management, user authentication.  
 - **Technologies:** Spring Boot, MVC, Data JPA, Thymeleaf, Ajax  
