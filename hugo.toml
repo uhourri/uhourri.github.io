@@ -1,0 +1,30 @@
+baseURL = "https://uhourri.github.io/"
+languageCode = "en-us"
+title = "My Academic Portfolio"
+theme = "PaperMod"
+
+[params]
+  author = "Hourri"
+  description = "My professional and academic portfolio"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowToc = true # Enables table of contents for longer posts
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
