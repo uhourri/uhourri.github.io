@@ -25,19 +25,3 @@ My research focuses on **analyzing Open Source Software (OSS) communities**, stu
 - **Software Development** – Developing research tools and prototypes using **Java & Python**.
 
 💡 **Looking to collaborate?** I’m open to research partnerships, industry-academic collaborations, and discussions related to OSS research and data science. Let’s connect!
-
----
-
-### **🔗 Explore My Work**
-- 📄 [About Me](/about/) – Learn more about my background and expertise.  
-- 📖 [Research](/research/) – Discover my current and past research projects.  
-- 📝 [Publications](/publications/) – Access my peer-reviewed papers and articles.  
-- 🏗️ [Projects](/projects/) – Explore the software projects I’ve developed or contributed to.  
-- 📬 [Contact](/contact/) – Get in touch for potential collaborations or inquiries.  
-
----
-
-✉️ **Email:** hourri@yahoo.com  
-🔗 **LinkedIn:** [linkedin.com/in/hourri](https://linkedin.com/in/hourri)  
-📂 **ORCID:** [0009-0000-2068-5041](https://orcid.org/0009-0000-2068-5041)  
-👨‍💻 **GitHub:** [github.com/uhourri](https://github.com/uhourri)
