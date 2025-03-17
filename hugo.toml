@@ -4,7 +4,7 @@ title = "My Academic Portfolio"
 theme = "PaperMod"
 
 [params]
-  author = "Hourri"
+  author = "Youness Hourri"
   description = "My professional and academic portfolio"
   ShowReadingTime = true
   ShowBreadCrumbs = true
