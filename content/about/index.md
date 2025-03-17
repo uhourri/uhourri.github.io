@@ -4,9 +4,6 @@ date = "2025-03-17T13:31:30+01:00"
 draft = false
 +++
 
-## 👋 About Me
-
-🚀 **Data Science Researcher | Software Developer | OSS Researcher**  
 I am **Youness Hourri**, a researcher specializing in **data science, software development, and open-source software (OSS) research**. My work focuses on **analyzing OSS communities**, understanding software engineering practices, and developing **data-driven solutions** for software development insights.  
 
 With a strong academic background in **machine learning, statistics, and software engineering**, I explore how **data science methodologies** can be applied to **software research and development**. 
