@@ -88,23 +88,3 @@ With a strong academic background in **machine learning, statistics, and softwar
 ### **Équipage Solidaire (Deliverer – Delivr’aide)** (2023)  
 📍 **France**  
 - Helped deliver essential food and hygiene kits to students in need.
-
----
-
-## 🏗 Academic & Personal Projects
-
-### **Twitter Sentiment Analysis (2022)**
-- Sentiment analysis of **Arabic tweets**, **automatic dialect detection**, and **topic classification**.
-- **Technologies:** Python, BERT, Transformers.
-
-### **Soccer Players Face Recognition (2022)**
-- **Real-time player classification** using image processing and machine learning.
-- **Technologies:** OpenCV, LBPH, SVM.
-
-### **Cancer Mortality Rate Prediction (2022)**
-- Built a predictive model for **cancer mortality rates** using **linear regression**.
-- **Technologies:** R, Python.
-
-### **Accident Management Web Application (2021)**
-- Developed a **web app** for **judicial accident file management**.
-- **Technologies:** Spring Boot, MVC, Data JPA, Thymeleaf, Ajax.

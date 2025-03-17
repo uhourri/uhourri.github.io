@@ -5,7 +5,6 @@ date = '2025-03-17T12:40:59+01:00'
 draft = false
 +++
 
-## 🎓 Academia
 
 I am actively engaged in **research, academic publishing, conference participation, and teaching**. My work focuses on **data science, software development, and open-source software (OSS) research**, with an emphasis on **collaboration, mentorship, and knowledge dissemination**.
 

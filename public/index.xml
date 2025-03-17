@@ -6,8 +6,26 @@
     <description>Recent content in Youness Hourri on My Academic Portfolio</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2025 13:31:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 16:21:41 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 17 Mar 2025 16:21:41 +0100</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I have worked on &lt;strong&gt;research-driven and software development projects&lt;/strong&gt; in &lt;strong&gt;data science, machine learning, software engineering, and open-source software (OSS) research&lt;/strong&gt;. Below is a selection of some projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ghmap-mapping-github-events-to-contributor-activities&#34;&gt;GHMap: Mapping GitHub Events to Contributor Activities&lt;/h3&gt;
+&lt;p&gt;A Python-based tool that converts &lt;strong&gt;raw GitHub event data&lt;/strong&gt; into structured contributor activities for &lt;strong&gt;OSS community analysis&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Features:&lt;/strong&gt; Event classification, contributor activity mapping, structured dataset generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Python, GitHub API, JSON, Data Processing&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;GitHub Repository:&lt;/strong&gt; &lt;a href=&#34;https://github.com/uhourri/ghmap&#34;&gt;GHMap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;twitter-sentiment-analysis&#34;&gt;Twitter Sentiment Analysis&lt;/h3&gt;
+&lt;p&gt;A Natural Language Processing (NLP) model for analyzing &lt;strong&gt;sentiment in Arabic tweets&lt;/strong&gt;, detecting dialects, and classifying topics.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
