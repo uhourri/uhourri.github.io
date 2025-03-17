@@ -1,6 +1,6 @@
 baseURL = "https://uhourri.github.io/"
 languageCode = "en-us"
-title = "My Academic Portfolio"
+title = "Youness Hourri – Researcher in Software Engineering & Open Source"
 theme = "PaperMod"
 
 [params]
