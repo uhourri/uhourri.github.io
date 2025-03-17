@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Youness Hourri</title>
-    <link>https://uhourri.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Youness Hourri</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 16:21:41 +0100</lastBuildDate>
-    <atom:link href="https://uhourri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://uhourri.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 17 Mar 2025 16:21:41 +0100</pubDate>
-      <guid>https://uhourri.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>&lt;p&gt;I have worked on &lt;strong&gt;research-driven and software development projects&lt;/strong&gt; in &lt;strong&gt;data science, machine learning, software engineering, and open-source software (OSS) research&lt;/strong&gt;. Below is a selection of some projects.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-ghmap-mapping-github-events-to-contributor-activities&#34;&gt;👨‍💻 GHMap: Mapping GitHub Events to Contributor Activities&lt;/h2&gt;
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>https://uhourri.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 17 Mar 2025 13:31:30 +0100</pubDate>
-      <guid>https://uhourri.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I am &lt;strong&gt;Youness Hourri&lt;/strong&gt;, a researcher specializing in &lt;strong&gt;data science, software development, and open-source software (OSS) research&lt;/strong&gt;. My work focuses on &lt;strong&gt;analyzing OSS communities&lt;/strong&gt;, understanding software engineering practices, and developing &lt;strong&gt;data-driven solutions&lt;/strong&gt; for software development insights.&lt;/p&gt;
 &lt;p&gt;With a strong academic background in &lt;strong&gt;machine learning, statistics, and software engineering&lt;/strong&gt;, I explore how &lt;strong&gt;data science methodologies&lt;/strong&gt; can be applied to &lt;strong&gt;software research and development&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;📍 &lt;strong&gt;Currently:&lt;/strong&gt; Researcher at &lt;strong&gt;University of Mons&lt;/strong&gt;&lt;br&gt;
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>https://uhourri.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 17 Mar 2025 12:41:30 +0100</pubDate>
-      <guid>https://uhourri.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re interested in &lt;strong&gt;research collaborations, academic discussions, or professional opportunities&lt;/strong&gt;, feel free to reach out.&lt;/p&gt;
 &lt;h3 id=&#34;-email&#34;&gt;📧 Email&lt;/h3&gt;
 &lt;p&gt;📩 &lt;strong&gt;&lt;a href=&#34;mailto:hourri@yahoo.com&#34;&gt;hourri@yahoo.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -59,9 +59,9 @@
     </item>
     <item>
       <title>Academia</title>
-      <link>https://uhourri.github.io/academia/</link>
+      <link>http://localhost:1313/academia/</link>
       <pubDate>Mon, 17 Mar 2025 12:40:59 +0100</pubDate>
-      <guid>https://uhourri.github.io/academia/</guid>
+      <guid>http://localhost:1313/academia/</guid>
       <description>Publications, Conferences, Teaching, and Academic Contributions</description>
     </item>
   </channel>
