@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My Academic Portfolio"
 theme = "PaperMod"
 
+relativeURLs = false
+canonifyURLs = true
+
 [params]
   author = "Youness Hourri"
   description = "My professional and academic portfolio"
