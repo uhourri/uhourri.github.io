@@ -6,12 +6,12 @@ theme = "PaperMod"
 [params]
   author = "Youness Hourri"
   description = "My professional and academic portfolio"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowBreadCrumbs = true
   ShowToc = true # Enables table of contents for longer posts
 
-[outputs]
-  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+[params.assets]
+  favicon = "/favicon.ico"
 
 [menu]
   [[menu.main]]
