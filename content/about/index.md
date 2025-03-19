@@ -13,6 +13,12 @@ With a strong academic background in **machine learning, statistics, and softwar
 
 ---
 
+## 📄 Curriculum Vitae
+
+[🔎 View My CV](</pdf/CV_Youness_Hourri.pdf>)
+
+---
+
 ## 🎓 Education
 
 ### **Master’s Degree in Machine Learning & Data Science**  
